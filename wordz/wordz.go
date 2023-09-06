@@ -19,3 +19,6 @@ func get(index int64) string {
 	return Prefix + Wordz[index]
 }
 
+func init(){
+fmt.Println("Func init in package wordz")
+}
