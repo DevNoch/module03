@@ -1,6 +1,7 @@
 package wordz
 
 import (
+	"fmt"
 	"crypto/rand"
 	"math/big"
 )
