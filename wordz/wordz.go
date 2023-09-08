@@ -24,6 +24,3 @@ func init(){
 fmt.Println("Func init in package wordz")
 }
 
-func init() {
-	fmt.Println("Function init in package wordz")
-}
