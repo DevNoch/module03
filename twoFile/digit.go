@@ -1,6 +1,6 @@
 package twoFile
 
-import "github.com/DevNoch/module03/module03/wordz"
+import "GoTestLiberally/wordz"
 
 func Digit() string {
 	return wordz.Random()
