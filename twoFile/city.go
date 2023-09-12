@@ -9,7 +9,7 @@ var Prefix = "Random wordz: "
 var Citys = []string{"Ternopil", "Zbarazh", "Detroit", "New York"}
 
 //отримати рузельтат Рандом() . random wortdzTwo .
-// відрізати від того результату префікс .Two.
+// відрізати від того результату префікс .Two..
 // методом перебору знайти з елементом якого індексу з масиву Вордз співпадає .
 
 func City() string {
