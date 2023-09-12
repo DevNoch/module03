@@ -1,7 +1,7 @@
 package twoFile
 
 import (
-	"GoTestLiberally/wordz"
+	"github.com/DevNoch/module03/module03/wordz"
 	"strings"
 )
 
