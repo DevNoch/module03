@@ -9,3 +9,12 @@ func Contains(x []string, a string) bool {
 	}
 	return false
 }
+
+func ContainsInt(x []int, a int) bool {
+	for _, n := range x {
+		if n == a {
+			return true
+		}
+	}
+	return false
+}
